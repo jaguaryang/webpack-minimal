@@ -14,6 +14,7 @@
   },
   "scripts": {
     "build": "webpack --progress",
-    "watch": "webpack --watch --progress"
+    "watch": "webpack --watch --progress",
+    "serve": "webpack-serve --port 5000"
   }
 }
